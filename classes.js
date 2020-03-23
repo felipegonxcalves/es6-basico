@@ -8,6 +8,8 @@ class Pessoa {
     getAltura() {
         return this.altura;
     }
+
+    
 }
 
 const pessoa = new Pessoa('Felipe Gonçalves', '1.88', 'm');
